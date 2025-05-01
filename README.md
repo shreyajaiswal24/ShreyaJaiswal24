@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyajaiswal24&label=Profile%20views&color=0e75b6&style=flat" alt="shreyajaiswal24" /> </p>
 
-- 🌱 I’m currently learning **Competitive Programmming ,NodeJs,ExpressJs,MongoDB**
+- 🌱 I’m currently learning **Competitive Programmming**
 
 - 📫 How to reach me **jaiswalshreya2426@gmail.com**
 
